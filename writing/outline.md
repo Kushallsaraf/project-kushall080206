@@ -2,12 +2,13 @@
 
 ## Name
 
-Add Your Name Here
+Kushall Saraf
 
 ### Research Project Details
 
 * What is the focus of your research project?
-
+Sports teams and betters spend a lot of money on algorithms that predict the result of a game. The focus of my project is to compare the accuracy of two algorithms and then conclude on the results of the models. 
+  
 * State at least one research question that your project will answer.
 
 * What are the steps you will need to take to complete this project?
