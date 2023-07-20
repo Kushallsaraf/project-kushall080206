@@ -12,7 +12,7 @@ Sports teams and betters spend a lot of money on algorithms that predict the res
 * State at least one research question that your project will answer.
 
 * What are the steps you will need to take to complete this project?
-
+I will need to do a literature review first to get some knowledge about the topic. Then I would find two algorithms used in sports outcome prediction and then I will compare their accuracy. Then I will conclude based on the outcomes of my research.
 ---
 
 ### Outline
@@ -22,7 +22,7 @@ Sports teams and betters spend a lot of money on algorithms that predict the res
      + Motivation
 
      + Current State of the Art
-
+        
      + Goals of the Project
 
 * Related work
