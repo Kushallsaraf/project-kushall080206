@@ -10,6 +10,7 @@ Kushall Saraf
 Sports teams and betters spend a lot of money on algorithms that predict the result of a game. The focus of my project is to compare the accuracy of two algorithms and then conclude on the results of the models. 
   
 * State at least one research question that your project will answer.
+Comparing the accuracy of Gaussian Fuzzy Algorithm and Naive Bayes Algorithm in Sports outcome prediction. 
 
 * What are the steps you will need to take to complete this project?
 I will need to do a literature review first to get some knowledge about the topic. Then I would find two algorithms used in sports outcome prediction and then I will compare their accuracy. Then I will conclude based on the outcomes of my research.
