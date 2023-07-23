@@ -2,7 +2,7 @@
 
 ## Name
 
-Add Your Name Here
+Kushall Saraf
 
 ---
 
@@ -26,7 +26,7 @@ TODO
 
 #### Goals of the Project
 
-TODO
+With this project i would like to compare the accuracy of 3 algorithms used in sports outcome prediction, namely Logistic Regression, Sports Vector Machine (SVM), and XGBoost. I have used a dataset from football of the year 2018. 
 
 ### Related work
 
