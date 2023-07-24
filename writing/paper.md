@@ -16,6 +16,9 @@ It is often useful and necessary to separate the introduction into multiple sect
 
 The headings below propose one way you might structure this section of the document.
 
+The sports industry has been growing day by day and with that also the number of people making a business out of this boom. Owners of sporting teams shell out a lot of money for the best of their franchise. Nowadays Artificial Intelligence (AI) and Machine Learning (ML) have taken over the internet by storm, and these franchises are using it for their benefit. These teams spend millions of dollars on algorithms used for match outcome prediction, tactical decision-making, player investments, fantasy sports, and injury prediction.
+
+
 #### Motivation
 
 TODO
