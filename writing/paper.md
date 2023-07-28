@@ -79,7 +79,6 @@ TODO
 
 #### References
 
-TODO: Use IEEE format
 
 [1] [1] R. Beal, T. J. Norman and S. D. Ramchurn, "Artificial intelligence for team sports: a survey," The Knowledge Engineering Review, vol. 34, 2019. Available: https://www.proquest.com/scholarly-journals/artificial-intelligence-team-sports-survey/docview/2328571462/se-2. DOI: https://doi.org/10.1017/S0269888919000225.
 
