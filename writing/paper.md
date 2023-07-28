@@ -6,7 +6,6 @@ Kushall Saraf
 
 ---
 
-TODO: Text added to relevant sections below
 
 ### Introduction
 
