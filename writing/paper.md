@@ -1,4 +1,4 @@
-# LS 102 - Computer Science Research Paper
+![image](https://github.com/LS102-summer2023/project-kushall080206/assets/137182677/8791c900-295d-4736-82d7-3e1676840b66)# LS 102 - Computer Science Research Paper
 
 ## Name
 
@@ -9,13 +9,12 @@ Kushall Saraf
 
 ### Introduction
 
-TODO: This section describes your  research project, including the overall aims and the background motivating your research. Whenever possible, you should use one or more concrete examples and technical diagrams.
 
-It is often useful and necessary to separate the introduction into multiple sections. Several possible sections are proposed below, you can use these or distribute your introductory text into sections in another way.
+In the realm of cutting-edge technology, machine learning (ML) has emerged as a transformative force, revolutionizing various fields with its predictive capabilities and data-driven insights. From healthcare to finance, ML has made significant contributions, enabling more informed decision-making and unlocking new possibilities. One domain where ML's potential has garnered immense interest is sports outcome prediction. By leveraging vast amounts of historical data, sophisticated algorithms, and pattern recognition, ML offers the promise of enhancing our understanding of sports events and ultimately predicting their outcomes with unprecedented accuracy.
 
-The headings below propose one way you might structure this section of the document.
+Sports, as a multi-billion-dollar industry, has not remained immune to the transformative potential of ML. The vast and ever-growing amount of data generated from sporting events, including player statistics, match results, weather conditions, and more, has become a goldmine for data scientists and sports enthusiasts alike. The application of ML in sports has not only opened new avenues for fan engagement but has also presented opportunities to gain a competitive edge for athletes, coaches, and sports organizations. These teams spend millions of dollars on algorithms used for match outcome prediction, tactical decision-making, player investments, fantasy sports, and injury prediction.[1] The picture below shows the many applications of AI and ML in sports. 
 
-The sports industry has been growing day by day and with that also the number of people making a business out of this boom. Owners of sporting teams shell out a lot of money for the best of their franchise. Nowadays Artificial Intelligence (AI) and Machine Learning (ML) have taken over the internet by storm, and these franchises are using it for their benefit. These teams spend millions of dollars on algorithms used for match outcome prediction, tactical decision-making, player investments, fantasy sports, and injury prediction.[1] 
+
 
 
 #### Motivation
