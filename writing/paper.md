@@ -31,9 +31,8 @@ With this project i would like to compare the accuracy of 3 algorithms used in s
 
 ### Related work
 
-TODO: This section includes a broad and detailed review of relevant existing work. The literature review should provide background and context for the reseach project work. The subsections may be organized in whatever manner seems best suited to the material-- chronological, or by topic, or according to some other criteria (e.g., primary versus secondary resources).
+[2], developed a logistic regression model to predict match results of Barclay’s premier league. What stands out is that they gathered the significant variables from various research papers rather than just making their own assumptions. They also gathered data from video games like FIFA which they said improved the quality of the data. They used variables like Home Offense,  Home Defence,  Away Offense, and Away Defence. They got a prediction accuracy of 69.5% from their model. They determined that the most significant variables were home Defence and away Defence. 
 
-If ethical issues are central to this work, you should also address historical and contemporary issues or efforts made to address them.
 
 ### Prototype
 
@@ -80,6 +79,6 @@ TODO
 
 [1] [1] R. Beal, T. J. Norman and S. D. Ramchurn, "Artificial intelligence for team sports: a survey," The Knowledge Engineering Review, vol. 34, 2019. Available: https://www.proquest.com/scholarly-journals/artificial-intelligence-team-sports-survey/docview/2328571462/se-2. DOI: https://doi.org/10.1017/S0269888919000225.
 
-[2] ...
+[2] D. Prasetio and D. Harlili, ‘Predicting football match results with logistic regression’, in 2016 International Conference On Advanced Informatics: Concepts, Theory And Application (ICAICTA), 2016, pp. 1–5.
 
 ---
