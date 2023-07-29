@@ -1,4 +1,3 @@
-![image](https://github.com/LS102-summer2023/project-kushall080206/assets/137182677/8791c900-295d-4736-82d7-3e1676840b66)# LS 102 - Computer Science Research Paper
 
 ## Name
 
