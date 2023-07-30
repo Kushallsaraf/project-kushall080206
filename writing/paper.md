@@ -13,7 +13,7 @@ In the realm of cutting-edge technology, machine learning (ML) has emerged as a 
 
 Sports, as a multi-billion-dollar industry, has not remained immune to the transformative potential of ML. The vast and ever-growing amount of data generated from sporting events, including player statistics, match results, weather conditions, and more, has become a goldmine for data scientists and sports enthusiasts alike. The application of ML in sports has not only opened new avenues for fan engagement but has also presented opportunities to gain a competitive edge for athletes, coaches, and sports organizations. These teams spend millions of dollars on algorithms used for match outcome prediction, tactical decision-making, player investments, fantasy sports, and injury prediction.[1] The picture below shows the many applications of AI and ML in sports. 
 
-[!https://github.com/LS102-summer2023/project-kushall080206/blob/main/writing/Screenshot%202023-07-30%20at%207.03.51%20PM.png]
+!(https://github.com/LS102-summer2023/project-kushall080206/blob/main/writing/Screenshot%202023-07-30%20at%207.03.51%20PM.png)
 
 
 
