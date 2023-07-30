@@ -20,9 +20,9 @@ At the forefront of ML applications in sports lies the captivating field of spor
 In conclusion, the integration of machine learning in sports outcome prediction is a fascinating and dynamic field, holding immense promise for sports enthusiasts, industry stakeholders, and the wider public alike. By harnessing the power of data and advanced algorithms, we endeavour to shed light on the exciting possibilities and potential pitfalls of using ML to predict the unpredictable –outcome of sports events.
 
 
+#### Research Question
 
-
-
+How does the accuracy of Logistic Regression compare to Support Vector Machine (SVM) when used for sports outcome prediction?
 
 #### Motivation
 
