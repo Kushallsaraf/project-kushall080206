@@ -31,7 +31,8 @@ The significance of data-driven decision-making in the field of sports analytics
 
 #### Current State of the Art
 
-TODO
+The current state of the art in sports outcome prediction using machine learning techniques in football has witnessed significant advancements. Algorithms like ANN, Nearest Neighbors Regression, XGBoost, Random Forest Regression and the ones targeted in this study are majorly used in sports outcome prediction. Algorithms have been widely employed in sports analytics, leveraging historical match data, player statistics, and contextual information to forecast game results. Logistic Regression, a linear classification method, excels in situations where the decision boundary is relatively simple and easy to interpret. On the other hand, SVM, a powerful and versatile algorithm, is adept at handling complex, high-dimensional datasets, enabling it to capture intricate patterns in football data. Many Studies have explored the impact of feature selection techniques and data preprocessing methods on the predictive performance of ML models. However, challenges remain, such as dealing with imbalanced classes and selecting an appropriate kernel for SVM to optimize performance. As the field continues to evolve, researchers aim to fine-tune these algorithms, incorporating advancements in deep learning and ensemble techniques, to achieve more accurate and reliable football outcome predictions. The ultimate goal is to develop models that can enhance decision-making for sports enthusiasts, analysts, and football teams, paving the way for more data-informed strategies and informed sports predictions.
+
 
 #### Goals of the Project
 
