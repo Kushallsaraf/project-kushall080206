@@ -1,4 +1,4 @@
-
+![image](https://github.com/LS102-summer2023/project-kushall080206/assets/137182677/38012092-07a1-41bb-95f6-6b23842cbc53)
 ## Name
 
 Kushall Saraf
@@ -26,7 +26,8 @@ How does the accuracy of Logistic Regression compare to Support Vector Machine (
 
 #### Motivation
 
-TODO
+The significance of data-driven decision-making in the field of sports analytics is what inspired this inquiry. Football, being one of the most popular and passionately followed sports worldwide, presents a compelling arena for predictive modelling. The outcomes of football matches are influenced by a myriad of factors, ranging from team composition and player performance to weather conditions and tactical strategies. By comparing the predictive accuracy of Logistic Regression and SVM in this context, valuable insights can be gained to optimize sports outcome prediction models. Understanding which algorithm performs better in forecasting football match results can not only help sports managers and enthusiasts in making informed betting decisions but also provide teams and coaches with valuable pre-match insights to devise winning strategies. 
+
 
 #### Current State of the Art
 
