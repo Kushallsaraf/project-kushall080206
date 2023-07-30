@@ -15,6 +15,10 @@ Sports, as a multi-billion-dollar industry, has not remained immune to the trans
 
 !(https://github.com/LS102-summer2023/project-kushall080206/blob/main/writing/Screenshot%202023-07-30%20at%207.03.51%20PM.png)(https://drive.google.com/file/d/14vdR98PfUOMyhg3Gyy9KVFWbwWqEXmVn/view?usp=sharing)
 
+writing/Screenshot 2023-07-30 at 7.03.51 PM.png
+
+!(writing/Screenshot 2023-07-30 at 7.03.51 PM.png)
+
 
 
 
