@@ -1,4 +1,4 @@
-![image](https://github.com/LS102-summer2023/project-kushall080206/assets/137182677/38012092-07a1-41bb-95f6-6b23842cbc53)
+
 ## Name
 
 Kushall Saraf
