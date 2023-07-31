@@ -95,6 +95,7 @@ TODO
 
 7. **Regulatory Compliance:** Researchers and organizations must adhere to relevant regulations and guidelines regarding the use of ML models in sports prediction, including data protection laws, anti-match-fixing regulations, and responsible gambling practices.
 
+Addressing these ethical implications requires a collaborative effort involving researchers, sports organizations, policymakers, and other stakeholders to develop guidelines, best practices, and policies that ensure the responsible and ethical use of ML in sports outcome prediction.
 
 
 
