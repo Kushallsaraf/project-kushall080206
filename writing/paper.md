@@ -38,7 +38,7 @@ The current state of the art in sports outcome prediction using machine learning
 
 In this literature review, I delve into the intriguing world of using machine learning for sports outcome prediction. The aim is to explore the various methodologies and algorithms that have been employed to predict the results of sporting events. By analyzing historical data, team compositions, player performance metrics, and various contextual factors, ML models have sought to decode the intricate patterns that influence the outcome of games.
 
-Through this research, I seek to gain a comprehensive understanding of the strengths and limitations of existing ML approaches in sports outcome prediction. Additionally, I aim to identify potential areas of improvement that could further enhance the accuracy of predictions. Furthermore, we will examine how ML-powered predictions are being utilized in real-world scenarios, such as sports betting markets and sports analytics firms, and the impact these predictions have on decision-making processes.
+Through this research, I seek to gain a comprehensive understanding of the strengths and limitations of existing ML approaches in sports outcome prediction. Additionally, I aim to identify potential areas of improvement that could further enhance the accuracy of predictions. Furthermore, I will examine how ML-powered predictions are being utilized in real-world scenarios, such as sports betting markets and sports analytics firms, and the impact these predictions have on decision-making processes.
 
 
 
