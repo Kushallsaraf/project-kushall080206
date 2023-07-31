@@ -46,6 +46,9 @@ Through this research, I seek to gain a comprehensive understanding of the stren
 
 [3], developed a logistic regression model to predict match results of Barclay’s premier league. What stands out is that they gathered the significant variables from various research papers rather than just making their own assumptions. They also gathered data from video games like FIFA which they said improved the quality of the data. They used variables like Home Offense,  Home Defence,  Away Offense, and Away Defence. They got a prediction accuracy of 69.5% from their model. They determined that the most significant variables were home Defence and away Defence. 
 
+[4], used the XGBoost algorithm to predict the results using limited data. They proposed a system which uses XGBoost as their primary algorithm for sports outcome prediction. It is compared with other algorithms using a filtered dataset to find the most influential data. Optimization or normalization has been applied, and the predicted outputs will represent win, draw, or loss in human-readable form. They came to the conclusion that XGBoost could outperform many other algorithms.
+
+
 
 ### Prototype
 
@@ -112,3 +115,5 @@ TODO
 [2]  A. D. Stefano, “Ai in sports: Trends, applications and future challenges,” AI in Sports: Trends, Applications and Future Challenges, https://www.itransition.com/blog/ai-in-sports (accessed Jul. 30, 2023). 
 
 [3]  D. Prasetio and D. Harlili, ‘Predicting football match results with logistic regression’, in 2016 International Conference On Advanced Informatics: Concepts, Theory And Application (ICAICTA), 2016, pp. 1–5.
+
+[4]  W. Gourh, K. N. Poojary, M. Vengarai, and N. Parkar, ‘Football Prediction using XGBoost Algorithm: A Literature Review’, 2020.
