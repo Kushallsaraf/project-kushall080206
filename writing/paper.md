@@ -48,6 +48,9 @@ Through this research, I seek to gain a comprehensive understanding of the stren
 
 [4], used the XGBoost algorithm to predict the results using limited data. They proposed a system which uses XGBoost as their primary algorithm for sports outcome prediction. It is compared with other algorithms using a filtered dataset to find the most influential data. Optimization or normalization has been applied, and the predicted outputs will represent win, draw, or loss in human-readable form. They came to the conclusion that XGBoost could outperform many other algorithms.  
 
+[5], set out to predict the results of the Greek league, considered the most predictable league, using 5 machine learning models. These models were as follows: k-Nearest Neighbour (k-NN), LogitBoost (LB), Support Vector Machine (SVM), Random Forest (RF) and CatBoost (CB). They engineered new features from the already existing ones. The following were created: Home Team form (the Home Team’s form according to the last five matches performance of the team), Away Team form, Home Team league points (the points the Home Team has gained in the league for the corresponding season before the match is played), Away Team league points, Home Team previous match goals (the goals scored by the Home Team in the previous match played), Away Team previous match goals, Home Team previous half time match goals (the goals scored by the Home Team in the previous match until half time) and Away Team previous half time match goals. As far as SVM is concerned they concluded they used a few parameters which resulted in an accuracy of 54.07% and the metric results were 0.4258, 0.4414 and 0.3876 for recall, precision and F1-score respectively. According to Table 3 in their paper, SVM had the least accuracy and F1-score. They also used LogitBoost which performs an additive logistic regression. It had an accuracy of 55.65% and an F1-score of 0.4962 ranking 3rd among the five models. The best-performing model was CatBoost with an accuracy of 67.73% which they applied to two more datasets. They concluded that the two most important features were Home Team Form and Away Team Form. Applying the best model to other datasets, they reached the conclusion that each league has its own properties and particularities that need to be considered separately for an accurate prediction. 
+
+
 
 
 ### Prototype
@@ -117,3 +120,5 @@ TODO
 [3]  D. Prasetio and D. Harlili, ‘Predicting football match results with logistic regression’, in 2016 International Conference On Advanced Informatics: Concepts, Theory And Application (ICAICTA), 2016, pp. 1–5.
 
 [4]  W. Gourh, K. N. Poojary, M. Vengarai, and N. Parkar, ‘Football Prediction using XGBoost Algorithm: A Literature Review’, 2020.
+
+[5]  Marios-Christos Malamatinos, E. Vrochidou and G. A. Papakostas, "On Predicting Soccer Outcomes in the Greek League Using Machine Learning," Computers, vol. 11, (9), pp. 133, 2022. Available: https://www.proquest.com/scholarly-journals/on-predicting-soccer-outcomes-greek-league-using/docview/2716507650/se-2. DOI: https://doi.org/10.3390/computers11090133.
