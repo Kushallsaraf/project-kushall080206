@@ -69,10 +69,7 @@ TODO: Traditionally, this section addresses the areas proposed below as subsecti
 | [3] | Predicting Football Match Results with Logistic Regression | Barclay’s Premier League | Logistic Regression | 69.5% |
 | [4] | Football Prediction using XGBoost Algorithm: A Literature Review | NA | XGBoost | NA |
 | [5] | Predicting Soccer Outcomes in the Greek League Using Machine Learning | Greek League | k-Nearest Neighbour (k-NN), LogitBoost (LB), Support Vector Machine (SVM), Random Forest (RF) and CatBoost (CB) | SVM – 54.07%, CB – 56.59%, LB – 55.65%, RF – 56.38%, k-NN 50.13% |
-
-
-
-
+| [6] | Predicting Winning Teams | English Premier League | Logistic Regression, SVM, XGBoost | LR – 0.6957, SVM – 0.6818, XG – 0.7451 |
 
 
 
