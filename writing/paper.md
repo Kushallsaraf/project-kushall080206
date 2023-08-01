@@ -52,7 +52,21 @@ Through this research, I seek to gain a comprehensive understanding of the stren
 
 [6], modelled an algorithm using Logistic Regression, SVM and XGBoost to compare their accuracy. He used a dataset from the English Premier League. The web scraping was done and datasets from 2000 to 2015 were used. The data was split into training and testing which was then applied to 3 different classifiers and 12 features were considered. After refining the data, the model was run and the F1-score was calculated on the test data. Logistic Regression had a score of 0.6957, SVM had a score of 0.6818 and XGBoost had the highest accuracy with an F1-score of 0.7451. He further ran some tuning parameters which inflated the score to 0.7826. He concluded that adding sentiment from Twitter, and some news articles can improve the accuracy. Also including more features from various data sources could enhance the accuracy of the predictions.
 
+### Prototype
 
+TODO: This section describes the implemented prototype - how did you implement your prototype, including the overall design of your prototype, details of the algorithms and tools if any used, etc. Use technical diagrams, equations, algorithms, and paragraphs of text to describe the research that you have completed. Be sure to number all figures and tables and to explicitly refer to them in your text.
+
+### Experiments
+
+TODO: This section describes your experimental set up and evaluation. It should also produce and describe the results of your study. The subsection titles below offer a typical structure used for this section.
+
+#### Experimental Design
+
+TODO: Especially as it pertains to responsible computing, if conducting experiments or evaluations that involve particular ethical considerations, detail those issues here.
+
+#### Evaluation
+
+TODO
 
 #### Threats to Validity
 
