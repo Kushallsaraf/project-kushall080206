@@ -94,11 +94,16 @@ TODO: Traditionally, this section addresses the areas proposed below as subsecti
 
 
 
-
-
 #### Future Work
 
-TODO
+The field of sports betting is a growing field and there is a myriad of potential work that can be done to get better results in the future. Here is some Future work that can be done in this field:- 
+
+1. Improved Insights Into Player Performance - Gathering more and more data is necessary and with the new technologies it is easier than ever to collect data. Using cameras, microphones, and multiple sensors a lot of different aspects of the game can be recorded. This will increase the number of features available to use for the algorithm's use. [9]
+
+2. Development into other uses - A prediction result can be used to assist the club’s manager to form tactics or strategy for upcoming matches, or it could be developed into a system recommender on what player to buy to strengthen the significant variables in football matches. [3] 
+
+
+
 
 #### Ethical Implications and Recommendations
 
@@ -143,3 +148,5 @@ TODO
 [7]  B. Hamadani , “1. Introduction - Stanford University,” Predicting the outcome of NFL games using machine learning, http://cs229.stanford.edu/proj2006/BabakHamadani-PredictingNFLGames.pdf (accessed Aug. 1, 2023). 
 
 [8]  B. M. LYNCH, Sports Betting to Grow at Double-Digit Rates over the next Five Years. AUSTRALIAN RACING FACTBOOK. 
+
+[9]  “The future of AI in Sports Betting,” BettingGods.com, https://bettinggods.com/sports-betting/the-future-of-ai-in-sports-betting/ (accessed Aug. 1, 2023). 
