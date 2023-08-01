@@ -54,22 +54,6 @@ Through this research, I seek to gain a comprehensive understanding of the stren
 
 
 
-### Prototype
-
-TODO: This section describes the implemented prototype - how did you implement your prototype, including the overall design of your prototype, details of the algorithms and tools if any used, etc. Use technical diagrams, equations, algorithms, and paragraphs of text to describe the research that you have completed. Be sure to number all figures and tables and to explicitly refer to them in your text.
-
-### Experiments
-
-TODO: This section describes your experimental set up and evaluation. It should also produce and describe the results of your study. The subsection titles below offer a typical structure used for this section.
-
-#### Experimental Design
-
-TODO: Especially as it pertains to responsible computing, if conducting experiments or evaluations that involve particular ethical considerations, detail those issues here.
-
-#### Evaluation
-
-TODO
-
 #### Threats to Validity
 
 TODO: What are some considerations and choices you have made during your project that might compromise some of your presented results (for example, if you are using data could there be sources of data inaccuracy, or if you are relying on an existing tool or library, a potential inaccuracy in their work might result to inaccuracy in yours).
@@ -80,7 +64,22 @@ TODO: Traditionally, this section addresses the areas proposed below as subsecti
 
 #### Summary of Results
 
-TODO
+| Ref | Research Title | Dataset | Techniques Applied | Prediction Accuracy |
+| --- | -------------- | ------- | ------------------ | ------------------- |
+| [3] | Predicting Football Match Results with Logistic Regression | Barclay’s Premier League | Logistic Regression | 69.5% |
+| [4] | Football Prediction using XGBoost Algorithm: A Literature Review | NA | XGBoost | NA |
+| [5] | Predicting Soccer Outcomes in the Greek League Using Machine Learning | Greek League | k-Nearest Neighbour (k-NN), LogitBoost (LB), Support Vector Machine (SVM), Random Forest (RF) and CatBoost (CB) | SVM – 54.07%
+CB – 56.59%
+LB – 55.65%
+RF – 56.38%
+k-NN – 50.13% |
+
+
+
+
+
+
+
 
 #### Future Work
 
