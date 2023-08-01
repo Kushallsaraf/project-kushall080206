@@ -1,4 +1,4 @@
-![image](https://github.com/LS102-summer2023/project-kushall080206/assets/137182677/998b413b-0390-4180-ba96-9ee4065c600d)
+
 ## Name
 
 Kushall Saraf
@@ -15,7 +15,10 @@ Sports, as a multi-billion-dollar industry, has not remained immune to the trans
 
 <img width="795" alt="Screenshot 2023-07-30 at 7 03 51 PM" src="https://github.com/LS102-summer2023/project-kushall080206/assets/137182677/28d8a8d0-6ebb-4dcb-9b91-c982de30a476"> [2]
 
-At the forefront of ML applications in sports lies the captivating field of sports outcome prediction. The ability to accurately forecast the results of sporting events has fascinated researchers, data scientists, and sports analysts alike. The implications of successful outcome predictions are multifaceted – from optimizing betting strategies to providing valuable insights for fantasy sports players, and even aiding coaches in devising winning tactics based on an opponent's weaknesses.
+At the forefront of ML applications in sports lies the captivating field of sports outcome prediction. The ability to accurately forecast the results of sporting events has fascinated researchers, data scientists, and sports analysts alike. The implications of successful outcome predictions are multifaceted – from optimizing betting strategies to providing valuable insights for fantasy sports players, and even aiding coaches in devising winning tactics based on an opponent's weaknesses. The below graph shows the trend of ML in sports betting.
+
+![68747470733a2f2f737461746963312e73717561726573706163652e636f6d2f7374617469632f3530366139356262633461613034393161393531633134312f742f3531613535643937653462303066343432383936376536342f313336393739313839363532362f73706f7274732d363230783334392e6a7067](https://github.com/LS102-summer2023/project-kushall080206/assets/137182677/4f869c35-714f-4166-a61d-4c18d392d71c) [8]
+
 
 In conclusion, the integration of machine learning in sports outcome prediction is a fascinating and dynamic field, holding immense promise for sports enthusiasts, industry stakeholders, and the wider public alike. By harnessing the power of data and advanced algorithms, we endeavour to shed light on the exciting possibilities and potential pitfalls of using ML to predict the unpredictable –outcome of sports events.
 
@@ -138,3 +141,5 @@ TODO
 [6]  R. Tuwani, “Predicting_Winning_Teams,” GitHub, https://github.com/llSourcell/Predicting_Winning_Teams/blob/master/Prediction.ipynb (accessed Aug. 1, 2023). 
 
 [7]  B. Hamadani , “1. Introduction - Stanford University,” Predicting the outcome of NFL games using machine learning, http://cs229.stanford.edu/proj2006/BabakHamadani-PredictingNFLGames.pdf (accessed Aug. 1, 2023). 
+
+[8]  B. M. LYNCH, Sports Betting to Grow at Double-Digit Rates over the next Five Years. AUSTRALIAN RACING FACTBOOK. 
