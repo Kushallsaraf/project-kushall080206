@@ -57,6 +57,9 @@ Through this research, I seek to gain a comprehensive understanding of the stren
 
 [7], set out to predict the outcome of the NFL (an American football league). He used Logistic Regression and SVM models to execute the project. Scores and statistics from 2003, 2004 and 2005 were used as datasets for the models. For the first algorithm, he used his own implementation of logistic regression in Matlab, which used the Newton-Raphson method. For the second one, he used SVM-light with linear, polynomial and tangent kernels. As for the conclusion the best results were achieved by the Logistic Regression model. The results were as follows – 2005: 65.83% - 2004: 61.37% - 2003: 67.08%. They determined that using the best features with different algorithms can improve the accuracy of the predictions. 
 
+[10], Applying knowledge discovery in databases (KDD) they developed a predictive model for football match results. By analyzing 9 crucial features influencing football outcomes, they constructed a more comprehensive system, resulting in improved prediction accuracy. To achieve this, they employed artificial neural network (ANN) and logistic regression (LR) techniques, utilizing Rapid Miner as our data mining tool. The implemented techniques demonstrated promising results, with the ANN technique achieving 85% prediction accuracy, and the LR technique achieving an even higher accuracy of 93%.
+
+
 
 ### Prototype
 
@@ -91,6 +94,7 @@ TODO: Traditionally, this section addresses the areas proposed below as subsecti
 | [5] | Predicting Soccer Outcomes in the Greek League Using Machine Learning | Greek League | k-Nearest Neighbour (k-NN), LogitBoost (LB), Support Vector Machine (SVM), Random Forest (RF) and CatBoost (CB) | SVM – 54.07%, CB – 56.59%, LB – 55.65%, RF – 56.38%, k-NN 50.13% |
 | [6] | Predicting Winning Teams | English Premier League | Logistic Regression, SVM, XGBoost | LR – 0.6957, SVM – 0.6818, XG – 0.7451 |
 | [7] | Predicting the outcome of NFL games using machine learning | Logistic Regression and SVM | NFL (2003 - 2005) | 2005: 65.83% - 2004: 61.37% - 2003: 67.08% |
+| [10] | An Improved Prediction System for Football a Match Result | ANN and Logistic Regression | Match history, Performance index, and match day record | ANN - 85%  LR - 93% |
 
 
 
@@ -150,3 +154,6 @@ TODO
 [8]  B. M. LYNCH, Sports Betting to Grow at Double-Digit Rates over the next Five Years. AUSTRALIAN RACING FACTBOOK. 
 
 [9]  “The future of AI in Sports Betting,” BettingGods.com, https://bettinggods.com/sports-betting/the-future-of-ai-in-sports-betting/ (accessed Aug. 1, 2023). 
+
+[10]  C. P. Igiri, ‘An Improved Prediction System for Football a Match Result’, IOSR Journal of Engineering, vol. 04, pp. 12–020, 2014.
+
