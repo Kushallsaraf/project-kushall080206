@@ -1,4 +1,4 @@
-
+![image](https://github.com/LS102-summer2023/project-kushall080206/assets/137182677/998b413b-0390-4180-ba96-9ee4065c600d)
 ## Name
 
 Kushall Saraf
@@ -52,6 +52,9 @@ Through this research, I seek to gain a comprehensive understanding of the stren
 
 [6], modelled an algorithm using Logistic Regression, SVM and XGBoost to compare their accuracy. He used a dataset from the English Premier League. The web scraping was done and datasets from 2000 to 2015 were used. The data was split into training and testing which was then applied to 3 different classifiers and 12 features were considered. After refining the data, the model was run and the F1-score was calculated on the test data. Logistic Regression had a score of 0.6957, SVM had a score of 0.6818 and XGBoost had the highest accuracy with an F1-score of 0.7451. He further ran some tuning parameters which inflated the score to 0.7826. He concluded that adding sentiment from Twitter, and some news articles can improve the accuracy. Also including more features from various data sources could enhance the accuracy of the predictions.
 
+[7], set out to predict the outcome of the NFL (an American football league). He used Logistic Regression and SVM models to execute the project. Scores and statistics from 2003, 2004 and 2005 were used as datasets for the models. For the first algorithm, he used his own implementation of logistic regression in Matlab, which used the Newton-Raphson method. For the second one, he used SVM-light with linear, polynomial and tangent kernels. As for the conclusion the best results were achieved by the Logistic Regression model. The results were as follows – 2005: 65.83% - 2004: 61.37% - 2003: 67.08%. They determined that using the best features with different algorithms can improve the accuracy of the predictions. 
+
+
 ### Prototype
 
 TODO: This section describes the implemented prototype - how did you implement your prototype, including the overall design of your prototype, details of the algorithms and tools if any used, etc. Use technical diagrams, equations, algorithms, and paragraphs of text to describe the research that you have completed. Be sure to number all figures and tables and to explicitly refer to them in your text.
@@ -84,6 +87,8 @@ TODO: Traditionally, this section addresses the areas proposed below as subsecti
 | [4] | Football Prediction using XGBoost Algorithm: A Literature Review | NA | XGBoost | NA |
 | [5] | Predicting Soccer Outcomes in the Greek League Using Machine Learning | Greek League | k-Nearest Neighbour (k-NN), LogitBoost (LB), Support Vector Machine (SVM), Random Forest (RF) and CatBoost (CB) | SVM – 54.07%, CB – 56.59%, LB – 55.65%, RF – 56.38%, k-NN 50.13% |
 | [6] | Predicting Winning Teams | English Premier League | Logistic Regression, SVM, XGBoost | LR – 0.6957, SVM – 0.6818, XG – 0.7451 |
+| [7] | Predicting the outcome of NFL games using machine learning | Logistic Regression and SVM | NFL (2003 - 2005) | 2005: 65.83% - 2004: 61.37% - 2003: 67.08% |
+
 
 
 
@@ -130,4 +135,6 @@ TODO
 
 [5]  Marios-Christos Malamatinos, E. Vrochidou and G. A. Papakostas, "On Predicting Soccer Outcomes in the Greek League Using Machine Learning," Computers, vol. 11, (9), pp. 133, 2022. Available: https://www.proquest.com/scholarly-journals/on-predicting-soccer-outcomes-greek-league-using/docview/2716507650/se-2. DOI: https://doi.org/10.3390/computers11090133.
 
-[6] Tuwani, R. (no date) Predicting_Winning_Teams, GitHub. Available at: https://github.com/llSourcell/Predicting_Winning_Teams/blob/master/Prediction.ipynb (Accessed: 01 August 2023). 
+[6]  R. Tuwani, “Predicting_Winning_Teams,” GitHub, https://github.com/llSourcell/Predicting_Winning_Teams/blob/master/Prediction.ipynb (accessed Aug. 1, 2023). 
+
+[7]  B. Hamadani , “1. Introduction - Stanford University,” Predicting the outcome of NFL games using machine learning, http://cs229.stanford.edu/proj2006/BabakHamadani-PredictingNFLGames.pdf (accessed Aug. 1, 2023). 
