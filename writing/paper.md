@@ -61,6 +61,9 @@ Through this research, I seek to gain a comprehensive understanding of the stren
 
 [11], The author developed a system with the aim of surpassing bookmakers' odds in football predictions. The goal was to identify crucial features for match prediction and calculate their probabilities to determine profitable bets. Seven machine learning algorithms, including MultiClassClassifier, RotationForest, LogitbooST, BayesNet, Naive Bayes, and Home Wins, were employed to classify matches into home wins, draws, or away wins. The achieved accuracy of his algorithm was 55%. However, the system fell short of consistently outperforming bookmakers in the long run. A significant limitation of this research was the relatively low prediction accuracy. Subsequently, the author proposed an improved system, which would consider additional features like all bookings during the match, player compositions, team managers, and more.
 
+[12], utilizing player and team data gathered from diverse web sources, the researchers propose an expert system designed to enhance NHL game outcome predictions while also assisting in recruitment and salary decisions. The developed system integrates principal components analysis, nonparametric statistical analysis, a support vector machine (SVM), and an ensemble machine learning algorithm to forecast whether a hockey team will emerge victorious in a game. The ensemble methods exhibit enhancements over the baseline SVM classifier, with predictive accuracy for the testing set surpassing 90%. Through a comparison of various ensemble machine learning approaches, potential avenues for enhancing game outcome prediction accuracy are identified. The system streamlines the application of learning methodologies and inputs data sources for users, facilitates the evaluation of model results, and addresses inherent challenges and concerns in predicting hockey game wins.
+
+
 
 
 #### Threats to Validity
@@ -79,9 +82,10 @@ TODO: Traditionally, this section addresses the areas proposed below as subsecti
 | [4] | Football Prediction using XGBoost Algorithm: A Literature Review | NA | XGBoost | NA |
 | [5] | Predicting Soccer Outcomes in the Greek League Using Machine Learning | Greek League | k-Nearest Neighbour (k-NN), LogitBoost (LB), Support Vector Machine (SVM), Random Forest (RF) and CatBoost (CB) | SVM – 54.07%, CB – 56.59%, LB – 55.65%, RF – 56.38%, k-NN 50.13% |
 | [6] | Predicting Winning Teams | English Premier League | Logistic Regression, SVM, XGBoost | LR – 0.6957, SVM – 0.6818, XG – 0.7451 |
-| [7] | Predicting the outcome of NFL games using machine learning | Logistic Regression and SVM | NFL (2003 - 2005) | 2005: 65.83% - 2004: 61.37% - 2003: 67.08% |
-| [10] | An Improved Prediction System for Football a Match Result | ANN and Logistic Regression | Match history, Performance index, and match day record | ANN - 85%  LR - 93% |
-| [11] | Predicting sports events from past results Towards effective betting on football matches | MultiClassClassifier, RotationForest, LogitbooST, BayesNet, Naive Bayes | Home win, draw and away win results | 55% |
+| [7] | Predicting the outcome of NFL games using machine learning | NFL (2003 - 2005) | Logistic Regression and SVM | 2005: 65.83% - 2004: 61.37% - 2003: 67.08% |
+| [10] | An Improved Prediction System for Football a Match Result | Match history, Performance index, and match day record | ANN and Logistic Regression | ANN - 85%  LR - 93% |
+| [11] | Predicting sports events from past results Towards effective betting on football matches | Home win, draw and away win results | MultiClassClassifier, RotationForest, LogitbooST, BayesNet, Naive Bayes | 55% |
+| [12] | A game-predicting expert system using big data and machine learning | NHL.com, ESPN.com, war-on-ice.com, sn.ca, and hockey-reference.com | SVM | 90% |
 
 
 
@@ -146,4 +150,6 @@ TODO
 [10]  C. P. Igiri, ‘An Improved Prediction System for Football a Match Result’, IOSR Journal of Engineering, vol. 04, pp. 12–020, 2014.
 
 [11]  D. Buursma, ‘Predicting sports events from past results Towards effective betting on football matches’, 2011.
+
+[12]  W. Gu, K. Foster, J. Shang, and L. Wei, ‘A game-predicting expert system using big data and machine learning’, Expert Systems with Applications, vol. 130, pp. 293–305, 2019.
 
