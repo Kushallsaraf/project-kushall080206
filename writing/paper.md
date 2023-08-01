@@ -72,7 +72,7 @@ TODO: What are some considerations and choices you have made during your project
 
 ### Conclusion
 
-After a lot of literature review, I concluded that Logistic Regression is more accurate than Support Vector Machine (SVM) which can also be seen in the table. Though other algorithms perform better than Logistic Regression and SVM, they are out of the scope of this research. I also noticed the importance of feature selection and data processing. I noticed that different algorithms many times reported high accuracies with specific features than with others. Using significant variables can also increase the accuracy to a good extent.
+After a lot of literature review, I concluded that Logistic Regression is more accurate than Support Vector Machine (SVM) which can also be seen in the table 1. Though other algorithms perform better than Logistic Regression and SVM, they are out of the scope of this research. I also noticed the importance of feature selection and data processing. I noticed that different algorithms many times reported high accuracies with specific features than with others. Using significant variables can also increase the accuracy to a good extent.
 
 #### Summary of Results
 
@@ -86,6 +86,8 @@ After a lot of literature review, I concluded that Logistic Regression is more a
 | [10] | An Improved Prediction System for Football a Match Result | Match history, Performance index, and match day record | ANN and Logistic Regression | ANN - 85%  LR - 93% |
 | [11] | Predicting sports events from past results Towards effective betting on football matches | Home win, draw and away win results | MultiClassClassifier, RotationForest, LogitbooST, BayesNet, Naive Bayes | 55% |
 | [12] | A game-predicting expert system using big data and machine learning | NHL.com, ESPN.com, war-on-ice.com, sn.ca, and hockey-reference.com | SVM | 90% |
+
+Table 1
 
 
 
