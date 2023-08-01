@@ -68,7 +68,8 @@ Through this research, I seek to gain a comprehensive understanding of the stren
 
 #### Threats to Validity
 
-TODO: What are some considerations and choices you have made during your project that might compromise some of your presented results (for example, if you are using data could there be sources of data inaccuracy, or if you are relying on an existing tool or library, a potential inaccuracy in their work might result to inaccuracy in yours).
+As I have based my conclusion on many research papers, the limitations in those studies will affect my conclusions. Any inaccuracies in the datasets or algorithms used in the various papers may affect the evaluation metrics on which I have drawn conclusions. Factors such as dataset selection bias and sample bias may also act as obstacles in the paper. Data pre-processing choices will also affect the conclusions and in turn affect my conclusions.
+
 
 ### Conclusion
 
