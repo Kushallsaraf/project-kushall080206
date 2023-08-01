@@ -124,7 +124,8 @@ Addressing these ethical implications requires a collaborative effort involving 
 
 #### Conclusions
 
-TODO
+After a lot of literature review, I concluded that Logistic Regression is more accurate than Support Vector Machine (SVM) which can also be seen in the table. Though other algorithms perform better than Logistic Regression and SVM, they are out of the scope of this research. I also noticed the importance of feature selection and data processing. I noticed that different algorithms many times reported high accuracies with specific features than with others. Using significant variables can also increase the accuracy to a good extent. !
+
 
 #### References
 
