@@ -72,7 +72,7 @@ TODO: What are some considerations and choices you have made during your project
 
 ### Conclusion
 
-TODO: Traditionally, this section addresses the areas proposed below as subsections, although not necessarily in this order or organized as offered.
+After a lot of literature review, I concluded that Logistic Regression is more accurate than Support Vector Machine (SVM) which can also be seen in the table. Though other algorithms perform better than Logistic Regression and SVM, they are out of the scope of this research. I also noticed the importance of feature selection and data processing. I noticed that different algorithms many times reported high accuracies with specific features than with others. Using significant variables can also increase the accuracy to a good extent.
 
 #### Summary of Results
 
@@ -119,12 +119,6 @@ The field of sports betting is a growing field and there is a myriad of potentia
 
 Addressing these ethical implications requires a collaborative effort involving researchers, sports organizations, policymakers, and other stakeholders to develop guidelines, best practices, and policies that ensure the responsible and ethical use of ML in sports outcome prediction.
 
-
-
-
-#### Conclusions
-
-After a lot of literature review, I concluded that Logistic Regression is more accurate than Support Vector Machine (SVM) which can also be seen in the table. Though other algorithms perform better than Logistic Regression and SVM, they are out of the scope of this research. I also noticed the importance of feature selection and data processing. I noticed that different algorithms many times reported high accuracies with specific features than with others. Using significant variables can also increase the accuracy to a good extent. !
 
 
 #### References
